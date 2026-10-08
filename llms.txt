@@ -1,0 +1,37 @@
+# Traductor
+
+> Traductor (www.tudominio.com) es un traductor online gratuito en español. Traduce al instante entre el español y el inglés, catalán, valenciano, euskera, gallego, francés y otros idiomas, sin registro. Muestra significados alternativos de palabras sueltas y permite escuchar la traducción con modo lento. Su traductor de valenciano usa formas normativas valencianas (hui, xiquets, vesprada, jo parle) en lugar de catalán central.
+
+## Traductores
+
+- [Traductor inglés](https://www.tudominio.com/traductor-ingles/): Traductor de inglés gratis: traduce del inglés al español y del español al inglés al instante, con significados alternativos, audio y modo lento.
+- [Traductor inglés español](https://www.tudominio.com/traductor-ingles/ingles-espanol/): Traduce del inglés al español gratis: textos, frases y palabras al momento, con significados alternativos, audio y pronunciación. Sin registro.
+- [Traductor español inglés](https://www.tudominio.com/traductor-ingles/espanol-ingles/): Traduce del español al inglés gratis: correos, currículums, mensajes y frases al instante, con alternativas, audio y pronunciación lenta.
+- [Traductor catalán](https://www.tudominio.com/traductor-catalan/): Traductor de catalán gratis: traduce del catalán al castellano y del castellano al catalán al instante, con audio y significados alternativos.
+- [Traductor catalán castellano](https://www.tudominio.com/traductor-catalan/catalan-castellano/): Traduce del catalán al castellano gratis y al instante. Ideal para textos de clase, trabajo y administración. Con audio y alternativas.
+- [Traductor castellano catalán](https://www.tudominio.com/traductor-catalan/castellano-catalan/): Traduce del castellano al catalán gratis y al instante: correos, trabajos y documentos en catalán normativo. Con audio y alternativas.
+- [Traductor valenciano](https://www.tudominio.com/traductor-valenciano/): Traductor de valenciano gratis con formas valencianas reales (hui, xiquets, vesprada, jo parle), no catalán genérico. Del castellano al valenciano y viceversa.
+- [Traductor valenciano castellano](https://www.tudominio.com/traductor-valenciano/valenciano-castellano/): Traduce del valenciano al castellano gratis y al instante: avisos, apuntes, notificaciones y documentos. Con audio y significados alternativos.
+- [Traductor castellano valenciano](https://www.tudominio.com/traductor-valenciano/castellano-valenciano/): Traduce del castellano al valenciano con formas valencianas reales: hui, xiquets, vesprada, jo parle. Gratis, al instante y sin registro.
+- [Traductor euskera](https://www.tudominio.com/traductor-euskera/): Traductor de euskera gratis: traduce del euskera al castellano y del castellano al euskera al instante, con audio y significados alternativos.
+- [Traductor euskera castellano](https://www.tudominio.com/traductor-euskera/euskera-castellano/): Traduce del euskera al castellano gratis y al instante: mensajes, avisos del colegio, apuntes y documentos. Con audio y alternativas.
+- [Traductor castellano euskera](https://www.tudominio.com/traductor-euskera/castellano-euskera/): Traduce del castellano al euskera batua gratis y al instante: frases, mensajes y textos de clase. Con audio y significados alternativos.
+- [Traductor gallego](https://www.tudominio.com/traductor-gallego/): Traductor de gallego gratis: traduce del gallego al castellano y del castellano al gallego al instante, con audio y significados alternativos.
+- [Traductor gallego castellano](https://www.tudominio.com/traductor-gallego/gallego-castellano/): Traduce del gallego al castellano gratis y al instante: avisos, apuntes, mensajes y documentos. Con audio y significados alternativos.
+- [Traductor castellano gallego](https://www.tudominio.com/traductor-gallego/castellano-gallego/): Traduce del castellano al gallego normativo gratis y al instante: trabajos, correos y trámites. Con audio y significados alternativos.
+- [Traductor francés](https://www.tudominio.com/traductor-frances/): Traductor de francés gratis: traduce del francés al español y del español al francés al instante, con audio, modo lento y significados alternativos.
+- [Traductor francés español](https://www.tudominio.com/traductor-frances/frances-espanol/): Traduce del francés al español gratis: textos, frases y palabras al momento, con audio, modo lento y significados alternativos. Sin registro.
+- [Traductor español francés](https://www.tudominio.com/traductor-frances/espanol-frances/): Traduce del español al francés gratis: correos, mensajes y frases al instante, con audio, modo lento y significados alternativos. Sin registro.
+
+## Guías
+
+- [Falsos amigos en inglés: las palabras que más confunden](https://www.tudominio.com/traductor-ingles/falsos-amigos/): Lista de falsos amigos en inglés y español con su traducción correcta y ejemplos: actually, embarrassed, carpet, library, sensible y más.
+- [Los phrasal verbs más usados, con traducción y ejemplos](https://www.tudominio.com/traductor-ingles/phrasal-verbs/): Los 25 phrasal verbs más usados en inglés con su traducción al español y un ejemplo de cada uno: give up, look forward to, find out, run out of y más.
+
+## Información
+
+- [Sobre nosotros](https://www.tudominio.com/sobre-nosotros/): Quiénes somos y cómo funciona Traductor, el traductor online gratuito de inglés, catalán, valenciano, euskera, gallego y francés.
+- [Contacto](https://www.tudominio.com/contacto/): Contacta con el equipo de Traductor para sugerencias, errores de traducción o colaboraciones.
+- [Política de privacidad](https://www.tudominio.com/privacidad/): Política de privacidad de Traductor: qué datos tratamos, con qué finalidad y cuáles son tus derechos.
+- [Aviso legal](https://www.tudominio.com/aviso-legal/): Aviso legal de Traductor: datos del titular, condiciones de uso y limitación de responsabilidad.
+- [Política de cookies](https://www.tudominio.com/cookies/): Qué cookies utiliza Traductor, para qué sirven y cómo puedes desactivarlas.

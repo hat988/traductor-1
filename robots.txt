@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /contacto/gracias/
+
+Sitemap: https://www.tudominio.com/sitemap.xml
